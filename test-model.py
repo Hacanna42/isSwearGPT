@@ -1,4 +1,3 @@
-import discord
 import openai
 import time
 import asyncio
